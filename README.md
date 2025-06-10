@@ -4,6 +4,8 @@ A multi-layered feed-forward neural network was constructed to accurately reprod
 
 **Language**: Python3. I used **sklearn**, and compared the results and efficiency of my custom multi-layered feed-forward neural network code, and **PyTorch**. 
 
+**Objectives**:
+
 1. Provide the energy of interaction between the charged particle and the electric field $E_{field}$.
 
 2. Use the python3 code developed during the tutorial sessions to compute the eigen-states of the particle. Report the associated energy values and plot the wave functions.
