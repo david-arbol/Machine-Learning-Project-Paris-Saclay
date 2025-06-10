@@ -2,7 +2,7 @@
 Final Project of the course Machine Learning at the University Paris-Saclay as part of the Erasmus Mundus Master's. 
 A multi-layered feed-forward neural network was constructed to accurately reproduce the ground wave function of a charged particle under an electric field.
 
-Program. Language: Python3, using sklearn. I use my own multi-layered feed-forward neural network code and Pytorch and compare. 
+Program. Language: Python3, using sklearn. I use my own multi-layered feed-forward neural network code and Pytorch and compare the results and efficiency. 
 
 1. Provide the energy of interaction between the charged particle and the electric field $E_{field}$.
 
